@@ -1,12 +1,22 @@
-## HTML + CSS + JavaScript
+# 🖥️ Admin Dashboard with Theme Switching
 
-This is a sample project to demonstrate the use of HTML, CSS and JavaScript. Start modefy the index.html, styles.css & script.js files to see the changes.
+A professional, responsive **Admin Dashboard** built with **HTML, CSS Grid**, and a **Light/Dark theme switcher**.  
+Designed to be clean, functional, and adaptable for different screen sizes without requiring a page reload.
 
-## How to run
+---
 
-1. Run the follwing command in your terminal:
-```bash
-live-server --no-browser
-```
+## ✨ Features
+- **CSS Grid Layout** – clean, modern structure for header, sidebar, content, and footer.
+- **Light & Dark Modes** – toggle between themes without page reload.
+- **Smooth Transitions** – background and text colors adapt seamlessly.
+- **Responsive Design** – works on desktop, tablet, and mobile.
+- **Easy Customization** – theme colors are managed via CSS variables.
 
-2. Refresh the URL in simple browser to see the output
+---
+
+## 🛠️ Technologies Used
+- **HTML5**
+- **CSS3** (CSS Grid, Variables, Media Queries, Transitions)
+- **Vanilla JavaScript** (for theme switching)
+
+---
